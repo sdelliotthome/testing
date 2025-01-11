@@ -14,3 +14,4 @@ Components of the Voice Communication On-Premises Architecture
 |Endpoints |Cisco IP Phones and Desktop Webex App|Enable real-time voice communications for users|
 |Public Telephone Connection|Oracle Enterprise Session Border Controller|Provides IP Telephony Service Provider connectivity|  
 
+[svg] /resources/drawio.svg
