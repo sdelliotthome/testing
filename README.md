@@ -2,7 +2,7 @@
 
 Components of the Voice Communication On-Premises Architecture
 
-# adding a new heading
+## adding a new heading
 
 | Function | Component | Description |
 |---|---|---|
@@ -11,7 +11,7 @@ Components of the Voice Communication On-Premises Architecture
 |Voice Messaging|Cisco Unity Connection|Provides unified messaging and voicemail services|
 |Enhanced 911|Cisco Emergency Responder|Provides endpoint location mapping and extended address information to the Public Saftey Answering Point (PSAP)|
 |Licence Management|Cisco Smart Software Manager|Provides a single management point for Cisco Unified Communications Manager and Cisco Unity Connection|
-|Endpoints |Cisco IP Phones and Desktop Webex App|Enable real-time voice communications for users|
+|<img src=./resources/drawio.svg> |Cisco IP Phones and Desktop Webex App|Enable real-time voice communications for users|
 |Public Telephone Connection|Oracle Enterprise Session Border Controller|Provides IP Telephony Service Provider connectivity|  
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.] src="./resources/drawio.svg"
+<img src=./resources/drawio.svg>
