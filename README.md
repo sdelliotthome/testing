@@ -2,6 +2,8 @@
 
 Components of the Voice Communication On-Premises Architecture
 
+# adding a new heading
+
 | Function | Component | Description |
 |---|---|---|
 |Telephony Hardware Platform|Cisco Unified Computing System (UCS) Servers and Fabric Interconnects|Provides a combined computing, networking, and storage infrastructure with management and virtualization capabilities|
@@ -11,3 +13,4 @@ Components of the Voice Communication On-Premises Architecture
 |Licence Management|Cisco Smart Software Manager|Provides a single management point for Cisco Unified Communications Manager and Cisco Unity Connection|
 |Endpoints |Cisco IP Phones and Desktop Webex App|Enable real-time voice communications for users|
 |Public Telephone Connection|Oracle Enterprise Session Border Controller|Provides IP Telephony Service Provider connectivity|  
+
